@@ -19,4 +19,16 @@ I believe that the personal qualities I have acquired, as well as the skills I h
 ------
 ### **Soft skills**
 
-- 
+- Systematic or logical thinking
+- Communicability
+- Persistence 
+----
+### **Hard skills**
+- HTML
+- CSS
+- JavaScript (in progress)
+- Git, GitHub
+- VScode 
+- Adobe Photoshop, Figma
+- DaVinci Resolve, Adobe Premiere Pro
+- ------
