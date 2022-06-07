@@ -2,7 +2,7 @@
 
 ### **Contact information**: 
 
-**Email:** sfom_rabota@mail.ru </br>
+**Email:** sfom_rabota@mail.ru <br>
 **Telegram:**  https://t.me/SergeyFo
 
 -----
@@ -22,8 +22,10 @@ I believe that the personal qualities I have acquired, as well as the skills I h
 - Systematic or logical thinking
 - Communicability
 - Persistence 
+
 ----
 ### **Hard skills**
+
 - HTML
 - CSS
 - JavaScript (in progress)
@@ -31,4 +33,5 @@ I believe that the personal qualities I have acquired, as well as the skills I h
 - VScode 
 - Adobe Photoshop, Figma
 - DaVinci Resolve, Adobe Premiere Pro
-- ------
+  
+------
