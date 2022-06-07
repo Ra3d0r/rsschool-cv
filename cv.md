@@ -3,7 +3,7 @@
 ### **Contact information**: 
 
 **Email:** sfom_rabota@mail.ru <br>
-**Telegram:**  https://t.me/SergeyFo
+**Telegram:**  [@SergeyFo](https://t.me/SergeyFo)
 
 -----
 ### **About me**
