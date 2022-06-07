@@ -35,3 +35,44 @@ I believe that the personal qualities I have acquired, as well as the skills I h
 - DaVinci Resolve, Adobe Premiere Pro
   
 ------
+
+### **Code example:**
+
+```css
+#box-1 {
+    width: 600px;
+    height: 200px;
+    background-color: red;
+}
+#box-11 {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+.space {
+    width: 20px;
+    height: 20px;
+}
+.box-2 {
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+}
+.box-22 {
+    width: 100px;
+    height: 250px;
+    background-color: grey;
+}
+````
+-----
+### **Courses:**
+
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- Web site layout and development 2022 - from scratch! Web development (in progress)
+
+-----
+
+### **Languages:**
+
+- English - Pre-Intermediate (in progress)
+- Russian - Native
