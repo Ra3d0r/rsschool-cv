@@ -10,22 +10,18 @@ nav {
 
 .logo {
     position: relative;
-    left: 193px;
+    left: 56px;
 }
-.link-rs {
-    position: relative;
-    bottom: 20px;
-    right: 345px;
-}
+
 .gt {
     position: relative;
-    right: 20px;
+    left: 107px;
     bottom: 20px;
 }
 
 .year {
     position: relative;
-    right: 257px;
+    right: 320px;
     bottom: 20px;
     display: inline;
 }
